@@ -1,5 +1,4 @@
-# ci-crud-watermark-compress-thumb
-Watermark, Compress dan Create Thumbnail pada Codeigniter-3
+# Watermark, Compress dan Create Thumbnail pada Codeigniter-3
 
 Screenshot 1
 ![Screenshot 1](https://github.com/ridwanlampung/ci-crud-watermark-compress-thumb/raw/master/screenshot1.png)
